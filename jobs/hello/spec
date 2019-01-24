@@ -1,0 +1,9 @@
+---
+name: hello
+
+templates:
+  bin/run.sh: bin/run
+
+packages: []
+
+properties: {}
